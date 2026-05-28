@@ -3,10 +3,11 @@
 [![License](https://img.shields.io/badge/license-Custom--SA-%231b25e5)](https://raw.githubusercontent.com/Python-Components-Group/llm_access/refs/heads/master/LICENSE)
 
 A Python component for integrating LLMs into any sort of Python software system, abstracting on:
-    - Inference platform used
-    - Platform-specific LLM models implementation names
-    - Platform-specific/Model-specific LLM hyperparameters
-(mainly used in [GenTestsAILib](https://github.com/codesavant23/gentestsai/))
+- Inference platform used
+- Platform-specific LLM models implementation names
+- Platform-specific/Model-specific LLM hyperparameters
+
+It is mainly used in [GenTestsAILib](https://github.com/codesavant23/gentestsai/)
 
 ## Component Description
 
