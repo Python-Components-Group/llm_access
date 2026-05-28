@@ -1,0 +1,6 @@
+[project]
+
+name = "llm-access"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = []
