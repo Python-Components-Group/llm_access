@@ -12,7 +12,7 @@ class OllamaThinkHyperParamId(_AWantsThinkingHyperParamId):
 		"""
 			Creates a new OllamaThinkHyperParamId
 		"""
-		pass
+		super().__init__()
 	
 	
 	def id(self) -> str:

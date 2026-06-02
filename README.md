@@ -28,12 +28,12 @@ You can find the binaries of the component in the [release](https://github.com/P
 
 #### Installation
 
-  ```python
-  pip install git+https://github.com/Python-Components-Group/llm_access
-  ```
+```python
+pip install git+https://github.com/Python-Components-Group/llm_access
+```
 
 #### Update
 
-  ```python
-  pip install git+https://github.com/Python-Components-Group/llm_access --upgrade
-  ```
+```python
+pip install git+https://github.com/Python-Components-Group/llm_access --upgrade
+```

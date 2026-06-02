@@ -12,7 +12,7 @@ class OllamaTopPHyperParamId(_ATopPHyperParamId):
 		"""
 			Creates a new OllamaTopPHyperParamId
 		"""
-		pass
+		super().__init__()
 	
 	
 	def id(self) -> str:

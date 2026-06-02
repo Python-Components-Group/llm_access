@@ -12,7 +12,7 @@ class OllamaSeedHyperParamId(_ASeedHyperParamId):
 		"""
 			Creates a new OllamaSeedHyperParamId
 		"""
-		pass
+		super().__init__()
 	
 	
 	def id(self) -> str:

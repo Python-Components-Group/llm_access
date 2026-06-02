@@ -12,7 +12,7 @@ class OllamaTemperatureHyperParamId(_ATemperatureHyperParamId):
 		"""
 			Creates a new OllamaTemperatureHyperParamId
 		"""
-		pass
+		super().__init__()
 	
 	
 	def id(self) -> str:

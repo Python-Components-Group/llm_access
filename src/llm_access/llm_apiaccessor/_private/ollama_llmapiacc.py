@@ -27,8 +27,8 @@ from ...llm_hyperparam import ILlmHyperParam
 from ...llm_specimpl import ILlmSpecImpl
 
 
-from .....utils.logger import ATemporalFormattLogger
-from .....utils.logger.exceptions import FormatNotSetError
+from c23_logger import ATemporalFormattLogger
+from c23_logger.exceptions import FormatNotSetError
 
 from ..exceptions import (
 	ApiConnectionError,

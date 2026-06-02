@@ -12,7 +12,7 @@ class OllamaNumCtxHyperParamId(_AContextWindowHyperParamId):
 		"""
 			Creates a new OllamaNumCtxHyperParamId
 		"""
-		pass
+		super().__init__()
 		
 		
 	def id(self) -> str:
