@@ -1,6 +1,6 @@
 # llm_access
 
-[![License](https://img.shields.io/badge/license-Custom--SA-%231b25e5)](https://raw.githubusercontent.com/Python-Components-Group/llm_access/refs/heads/master/LICENSE)
+[![License](https://img.shields.io/badge/license-Custom--SA-%231b25e5)](https://raw.githubusercontent.com/Python-Components-Group/llm_access/refs/heads/main/LICENSE)
 
 A Python component for integrating LLMs into any sort of Python software system, abstracting on:
 - Inference platform used
