@@ -18,6 +18,10 @@ This Python component is built by several sub-components (or software modules):
 - **<u>llm_hyperparam</u>** which provides abstraction over LLMs hyperparameters
 - **<u>llm_apiaccessor</u>** which provides services for communicating with LLMs exposed by an inference platform abstractly
 
+## Component Dependencies
+
+- [c23_logger](https://github.com/Python-Components-Group/c23_logger/) (Python component)
+
 ## How to get the component
 
 ### Latest stable release
